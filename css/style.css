@@ -21,6 +21,10 @@ body {
     color: #355326;
 }
 
+.crossIt {
+    text-decoration: line-through;
+}
+
 
 /* TIMELINE */
 
